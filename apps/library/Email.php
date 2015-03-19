@@ -42,7 +42,6 @@ Class Email extends Phalcon\Mvc\User\Component {
         }
         else {
 
-            print_r($mail->ErrorInfo);
             return false;
 
         }
