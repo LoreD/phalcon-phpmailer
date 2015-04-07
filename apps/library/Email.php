@@ -34,7 +34,7 @@ Class Email extends Phalcon\Mvc\User\Component {
         $mail->AltBody = $this->FromTitle;
 
         $mail->AddAddress($To);
-        $mail->addBcc('bgurpinar@hangisi.net');
+        $mail->addBcc('bccaddress@mail.com');
 
         if ($mail->Send()) {
 
