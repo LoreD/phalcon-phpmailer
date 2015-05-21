@@ -1,5 +1,5 @@
 # phalcon-phpmailer
-Phalcon Framework Phpmailer Library
+Phalcon Framework Phpmailer Google Mail Library
 
 Usage Library : 
 
